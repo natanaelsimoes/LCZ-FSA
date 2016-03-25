@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Zonas de Clima Local de Feira de Santana, Bahia, Brasil</title>
+        <meta name="viewport" content="initial-scale=1.0">
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="css/map.css">
+    </head>
+    <body>
+        <header id="header">
+            <div class="authors">
+                <h1>Zonas de Clima Local Feira de Santana, Bahia, Brasil</h1>
+                <div class="author" id="author-1">
+                    Natanael Augusto Viana Simões
+                    <address>
+                        Instituto Federal de Educação, Ciência e Tecnologia de Rondônia (IFRO)<br>
+                        Rodovia RO 257, Km 13, Zona Rural - 76.878-899<br>
+                        Ariquemes - RO - Brasil<br>
+                        &lt;natanael.simoes@ifro.edu.br&gt;
+                    </address>
+                </div>
+                <div class="author" id="author-2">
+                    Gracinete Bastos de Souza
+                    <address>
+                        Universidade Estadual de Feira de Santana (UEFS)<br>
+                        Av. Transnordestina, s/n - 44.036-900<br>
+                        Feira de Santana - BA - Brasil<br>
+                        &lt;graciesouza@gmail.com&gt;
+                    </address>
+                </div>
+            </div>
+        </header>
+        <div id="map"></div>
+        <div id="blitzMap"></div>
+        <textarea id="jsonString"></textarea>
+        <textarea id="kmlString"></textarea>
+        <div id="legend">
+            <b>Legenda</b>
+        </div>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDKOS7dq0Ou7Xckw53FmSWRzh_vgn9-Wq4&libraries=drawing,geometry"></script>
+        <script type="text/javascript" src="js/geocodezip/geoxml3/geoxml3.js"></script>
+        <script type="text/javascript" src="js/geocodezip/geoxml3/ProjectedOverlay.js"></script>
+        <script type="text/javascript" src="js/geocodezip/blitz-gmap-editor/PolylineEncoder.js"></script>
+        <script type="text/javascript" src="js/geocodezip/blitz-gmap-editor/jscolor.js"></script>
+        <script type="text/javascript" src="js/geocodezip/blitz-gmap-editor/json2.js"></script>
+        <script type="text/javascript" src="js/geocodezip/blitz-gmap-editor/xmlwriter.js"></script>
+        <script type="text/javascript" src="js/geocodezip/blitz-gmap-editor/twiz.js"></script>
+        <script type="text/javascript" src="js/map.js"></script>
+        <script type="text/javascript">
+            var LCZMap = new LCZ_Map();
+            google.maps.event.addDomListener(window, "load", LCZMap.initMap());
+        </script>
+    </body>
+</html>

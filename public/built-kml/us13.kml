@@ -1,0 +1,622 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+    <Document>
+        <name>Lagoa Grande</name>
+        <Placemark>
+            <name>us13</name>
+            <styleUrl>#poly-FFFFFF-1-0-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.939322,-12.249380000000002,0.0 -38.93933,-12.249204,0.0 -38.939357,-12.249029,0.0 -38.939401,-12.248858,0.0 -38.939461,-12.248692000000002,0.0 -38.939539,-12.248533,0.0 -38.939631,-12.248382,0.0 -38.939739,-12.248239999999997,0.0 -38.93986000000001,-12.24811,0.0 -38.939994,-12.247991,0.0 -38.940139,-12.247886,0.0 -38.940293,-12.247796,0.0 -38.94045599999999,-12.247719999999997,0.0 -38.940626,-12.247661,0.0 -38.940801,-12.247618000000001,0.0 -38.94098,-12.247592000000001,0.0 -38.941159999999996,-12.247583,0.0 -38.94134,-12.247592000000001,0.0 -38.941519,-12.247618000000001,0.0 -38.941694000000005,-12.247660999999999,0.0 -38.941864,-12.24772,0.0 -38.942027,-12.247796,0.0 -38.942181,-12.247886000000001,0.0 -38.942326,-12.247991,0.0 -38.94246,-12.24811,0.0 -38.942581,-12.248240000000001,0.0 -38.942689,-12.248382,0.0 -38.942781,-12.248533,0.0 -38.942859000000006,-12.248692000000002,0.0 -38.942919,-12.248858,0.0 -38.942963,-12.249029,0.0 -38.94299,-12.249204,0.0 -38.942998,-12.249380000000002,0.0 -38.94299,-12.249556000000002,0.0 -38.942963,-12.249731,0.0 -38.942919,-12.249902000000002,0.0 -38.942859000000006,-12.250068,0.0 -38.942781,-12.250227,0.0 -38.942689,-12.250378,0.0 -38.942581,-12.25052,0.0 -38.94246,-12.25065,0.0 -38.942325999999994,-12.250769,0.0 -38.942181,-12.250874000000001,0.0 -38.942027,-12.250964,0.0 -38.941864,-12.251040000000001,0.0 -38.941694,-12.251099,0.0 -38.94151900000001,-12.251142,0.0 -38.94134,-12.251168,0.0 -38.94116,-12.251177,0.0 -38.94098000000001,-12.251168,0.0 -38.940801,-12.251142,0.0 -38.940626,-12.251099,0.0 -38.940456,-12.25104,0.0 -38.940293,-12.250964,0.0 -38.940139,-12.250874,0.0 -38.939994000000006,-12.250769,0.0 -38.93986,-12.25065,0.0 -38.939739,-12.25052,0.0 -38.93963099999999,-12.250378000000001,0.0 -38.939539,-12.250227,0.0 -38.939461,-12.250068,0.0 -38.939401,-12.249902,0.0 -38.939357,-12.249731,0.0 -38.939330000000005,-12.249556,0.0 -38.939322,-12.249380000000002,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 2</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9418849,-12.2507858,0.0 -38.94217729999999,-12.249666600000001,0.0 -38.9423543,-12.2497085,0.0 -38.9423329,-12.249779299999997,0.0 -38.942298,-12.249763599999998,0.0 -38.9422765,-12.2498658,0.0 -38.942230900000006,-12.249857899999999,0.0 -38.94221220000001,-12.2499051,0.0 -38.94224439999999,-12.2499156,0.0 -38.94221749999999,-12.249968,0.0 -38.9422014,-12.2500231,0.0 -38.9422202,-12.250083400000001,0.0 -38.942185300000006,-12.2501777,0.0 -38.9422229,-12.2501908,0.0 -38.94220140000001,-12.250253700000002,0.0 -38.94215319999999,-12.2502459,0.0 -38.942147799999994,-12.250279900000002,0.0 -38.9421773,-12.2503062,0.0 -38.9421505,-12.250345500000002,0.0 -38.94211289999999,-12.2503586,0.0 -38.9421156,-12.2503953,0.0 -38.9423248,-12.250447700000002,0.0 -38.942298,-12.250526299999999,0.0 -38.942145100000005,-12.2504818,0.0 -38.9421156,-12.250568299999998,0.0 -38.94220140000001,-12.2505814,0.0 -38.9421907,-12.250641700000001,0.0 -38.94211020000001,-12.2506285,0.0 -38.9420941,-12.2506626,0.0 -38.9420405,-12.250657399999998,0.0 -38.9420351,-12.250736,0.0 -38.942000300000004,-12.2507413,0.0 -38.9419922,-12.2507989,0.0 -38.942019,-12.250812,0.0 -38.94200300000001,-12.250848700000002,0.0 -38.94186620000001,-12.2508199,0.0 -38.9418849,-12.2507858,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 3</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9417884,-12.2509064,0.0 -38.9416596,-12.2508749,0.0 -38.94170249999999,-12.2507413,0.0 -38.941571100000004,-12.2507072,0.0 -38.9419037,-12.2494674,0.0 -38.9421478,-12.249470000000002,0.0 -38.9417884,-12.2509064,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 4</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.94126,-12.2507386,0.0 -38.9415926,-12.249456899999998,0.0 -38.941834,-12.2494595,0.0 -38.941555,-12.2505054,0.0 -38.9414665,-12.2504818,0.0 -38.94136459999999,-12.250778,0.0 -38.94126,-12.2507386,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 5</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9417294,-12.251063699999998,0.0 -38.9416087,-12.251045299999998,0.0 -38.9416301,-12.250974500000002,0.0 -38.9417481,-12.2509929,0.0 -38.9417294,-12.251063699999998,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 6</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.941576500000004,-12.2510374,0.0 -38.94148799999999,-12.2510217,0.0 -38.9415121,-12.2509614,0.0 -38.9415953,-12.250977200000001,0.0 -38.941576500000004,-12.2510374,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 7</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.941324400000006,-12.251084599999999,0.0 -38.941326999999994,-12.2510348,0.0 -38.94141019999999,-12.251034799999998,0.0 -38.9414155,-12.251092500000002,0.0 -38.941324400000006,-12.251084599999999,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 8</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9410025,-12.2506784,0.0 -38.9413029,-12.2494438,0.0 -38.941555,-12.249456899999998,0.0 -38.9412761,-12.250473900000001,0.0 -38.9411876,-12.2504398,0.0 -38.9410964,-12.2506967,0.0 -38.9410025,-12.2506784,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 9</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9409864,-12.250492300000001,0.0 -38.9407691,-12.2504503,0.0 -38.9410239,-12.249456899999998,0.0 -38.9412493,-12.2494543,0.0 -38.9409864,-12.250492300000001,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 10</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9407182,-12.2504162,0.0 -38.94049820000001,-12.250418899999998,0.0 -38.9407369,-12.2494517,0.0 -38.9409649,-12.249456899999998,0.0 -38.9407182,-12.2504162,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 11</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9406645,-12.249477900000002,0.0 -38.940514300000004,-12.250162000000001,0.0 -38.9404017,-12.250138399999999,0.0 -38.94039360000001,-12.2501908,0.0 -38.9405009,-12.2502039,0.0 -38.9404768,-12.2502747,0.0 -38.94036950000001,-12.250240600000001,0.0 -38.9403507,-12.2503062,0.0 -38.9402407,-12.250269499999996,0.0 -38.940407,-12.2494543,0.0 -38.9406806,-12.2494543,0.0 -38.9406645,-12.249477900000002,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 12</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.94019250000001,-12.250183,0.0 -38.9399752,-12.250143600000001,0.0 -38.940085200000006,-12.2496011,0.0 -38.9401415,-12.2496011,0.0 -38.9401603,-12.249459500000002,0.0 -38.9403534,-12.24947,0.0 -38.94019250000001,-12.250183,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 13</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.93990809999999,-12.2501043,0.0 -38.9397821,-12.250086,0.0 -38.9398089,-12.2499942,0.0 -38.939690899999995,-12.2499654,0.0 -38.9397982,-12.2495906,0.0 -38.9400235,-12.249648200000001,0.0 -38.9399698,-12.2499287,0.0 -38.93986519999999,-12.249894600000001,0.0 -38.93983570000001,-12.2499733,0.0 -38.9399242,-12.2500021,0.0 -38.93990809999999,-12.2501043,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 14</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.94068600000001,-12.249394000000002,0.0 -38.9404204,-12.249399199999997,0.0 -38.9405787,-12.2485316,0.0 -38.9407289,-12.24855,0.0 -38.940753,-12.2484923,0.0 -38.9408657,-12.2485107,0.0 -38.940753,-12.2489694,0.0 -38.94063499999999,-12.248958899999998,0.0 -38.9406189,-12.2490297,0.0 -38.9407343,-12.2490454,0.0 -38.94068600000001,-12.249394000000002,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 15</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.940353400000006,-12.2493704,0.0 -38.9401388,-12.249378300000002,0.0 -38.940289,-12.248432,0.0 -38.9405224,-12.2484556,0.0 -38.940353400000006,-12.2493704,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 16</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9400771,-12.2493966,0.0 -38.9398089,-12.249386099999999,0.0 -38.9398974,-12.249000799999997,0.0 -38.9400128,-12.249027,0.0 -38.9401093,-12.2485028,0.0 -38.94021119999999,-12.2485159,0.0 -38.9400771,-12.2493966,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 17</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9407423,-12.249394000000002,0.0 -38.9409113,-12.2485316,0.0 -38.9410427,-12.24855,0.0 -38.9410132,-12.248662699999999,0.0 -38.9410159,-12.2487151,0.0 -38.9411151,-12.2487335,0.0 -38.9409676,-12.249414999999999,0.0 -38.9407423,-12.249394000000002,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 18</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9410347,-12.249415,0.0 -38.9411446,-12.2489379,0.0 -38.9412305,-12.2489563,0.0 -38.9412412,-12.2488881,0.0 -38.94116069999999,-12.2488698,0.0 -38.94123319999999,-12.2485683,0.0 -38.9414504,-12.248599799999997,0.0 -38.9412761,-12.249394,0.0 -38.9410347,-12.249415,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 19</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9415926,-12.249373,0.0 -38.94158720000001,-12.249396600000003,0.0 -38.9413297,-12.2494019,0.0 -38.9415175,-12.2486181,0.0 -38.9417562,-12.248652200000002,0.0 -38.9415926,-12.249373,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 20</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.94165160000001,-12.2493966,0.0 -38.9418098,-12.2486601,0.0 -38.9420378,-12.248694100000002,0.0 -38.94187149999999,-12.2494071,0.0 -38.94165160000001,-12.2493966,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 21</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9421612,-12.249399199999997,0.0 -38.941930500000005,-12.249378300000002,0.0 -38.94197079999999,-12.249223600000002,0.0 -38.9420727,-12.2492446,0.0 -38.9420888,-12.249176400000001,0.0 -38.9419869,-12.2491607,0.0 -38.9421156,-12.248681000000001,0.0 -38.942349,-12.2487361,0.0 -38.9421612,-12.249399199999997,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 22</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9422551,-12.2493652,0.0 -38.94242940000001,-12.2487046,0.0 -38.942872,-12.2487387,0.0 -38.942919,-12.248858,0.0 -38.9429632,-12.249048,0.0 -38.942982,-12.249176400000001,0.0 -38.9429846,-12.249294399999998,0.0 -38.942998,-12.249380000000002,0.0 -38.9422551,-12.2493652,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 23</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9428398,-12.2486679,0.0 -38.9424348,-12.248662699999999,0.0 -38.942581,-12.248240000000001,0.0 -38.942644,-12.248327199999997,0.0 -38.94271640000001,-12.248431999999998,0.0 -38.942781,-12.248533,0.0 -38.9428398,-12.2486679,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 24</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.942378500000004,-12.2486601,0.0 -38.942129,-12.2486024,0.0 -38.9422095,-12.2484084,0.0 -38.9422792,-12.2480834,0.0 -38.94246,-12.24811,0.0 -38.9425313,-12.2481778,0.0 -38.942378500000004,-12.2486601,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 25</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9420432,-12.248623399999998,0.0 -38.94181519999999,-12.248607599999998,0.0 -38.9419708,-12.248031,0.0 -38.9422229,-12.2480677,0.0 -38.9421827,-12.2482328,0.0 -38.9421424,-12.2483429,0.0 -38.9420432,-12.248623399999998,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 26</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9417616,-12.2485788,0.0 -38.9415443,-12.2485526,0.0 -38.9416784,-12.2479838,0.0 -38.9419198,-12.248038900000001,0.0 -38.94184739999999,-12.248340300000002,0.0 -38.9417616,-12.2485788,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 27</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.941463799999994,-12.248536900000001,0.0 -38.94131900000001,-12.248521200000003,0.0 -38.941335099999996,-12.2484635,0.0 -38.9412627,-12.2484478,0.0 -38.9412975,-12.2483298,0.0 -38.941386,-12.2483455,0.0 -38.9414129,-12.2482852,0.0 -38.9415309,-12.248300999999998,0.0 -38.941463799999994,-12.248536900000001,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 28</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9415336,-12.248259,0.0 -38.9413109,-12.2482276,0.0 -38.9413887,-12.247926099999999,0.0 -38.9416248,-12.247976,0.0 -38.9415336,-12.248259,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 29</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9411607,-12.2484976,0.0 -38.94092199999999,-12.2484582,0.0 -38.9409998,-12.248141100000002,0.0 -38.9411393,-12.2481699,0.0 -38.9411205,-12.2482486,0.0 -38.9412385,-12.248266900000003,0.0 -38.941190199999994,-12.2484713,0.0 -38.94116880000001,-12.2484582,0.0 -38.9411607,-12.2484976,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 30</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9413109,-12.2479733,0.0 -38.9412653,-12.2481647,0.0 -38.9411446,-12.2481254,0.0 -38.9412037,-12.247949700000001,0.0 -38.9413109,-12.2479733,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 31</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9412037,-12.247949700000001,0.0 -38.9411876,-12.2479969,0.0 -38.94113389999999,-12.247976,0.0 -38.9411259,-12.248025800000002,0.0 -38.9409891,-12.2479917,0.0 -38.9410186,-12.247837,0.0 -38.9412171,-12.247886799999998,0.0 -38.9412037,-12.247949700000001,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 32</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9422444,-12.247931400000002,0.0 -38.9422202,-12.248015300000002,0.0 -38.94168380000001,-12.2479235,0.0 -38.94174550000001,-12.247706000000003,0.0 -38.9418018,-12.247713800000001,0.0 -38.9417857,-12.2478187,0.0 -38.9418259,-12.247823900000002,0.0 -38.9418474,-12.247711200000001,0.0 -38.9419198,-12.2477505,0.0 -38.942027,-12.247796,0.0 -38.942080700000005,-12.2478292,0.0 -38.94204049999999,-12.2478921,0.0 -38.94211020000001,-12.2479026,0.0 -38.94212100000001,-12.247855399999999,0.0 -38.9422444,-12.247931400000002,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 33</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9416328,-12.2479157,0.0 -38.9407611,-12.24774,0.0 -38.940801,-12.247618000000001,0.0 -38.9408791,-12.247609000000002,0.0 -38.9410293,-12.2475933,0.0 -38.94101589999999,-12.2476404,0.0 -38.941056100000004,-12.2476535,0.0 -38.9410695,-12.2475959,0.0 -38.9411071,-12.2475906,0.0 -38.9412332,-12.247588,0.0 -38.9416757,-12.247679800000002,0.0 -38.9416328,-12.2479157,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 34</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.94076379999999,-12.247850099999999,0.0 -38.9407048,-12.247858000000003,0.0 -38.94071550000001,-12.2477741,0.0 -38.940769100000004,-12.247789799999998,0.0 -38.94076379999999,-12.247850099999999,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 35</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9409032,-12.248070299999998,0.0 -38.9408201,-12.2480677,0.0 -38.94082809999999,-12.24801,0.0 -38.9409006,-12.24801,0.0 -38.9409032,-12.248070299999998,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 36</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.940919300000004,-12.2481987,0.0 -38.9408201,-12.2481909,0.0 -38.9408255,-12.248117499999998,0.0 -38.9409247,-12.2481358,0.0 -38.940919300000004,-12.2481987,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 37</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9406216,-12.2483534,0.0 -38.940635,-12.2482931,0.0 -38.9407101,-12.248311499999998,0.0 -38.940694,-12.2483639,0.0 -38.9406216,-12.2483534,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 39</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9407691,-12.2482931,0.0 -38.9407101,-12.248311499999998,0.0 -38.94071550000001,-12.2482407,0.0 -38.9407638,-12.2482354,0.0 -38.9407691,-12.2482931,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 40</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9407611,-12.248418900000003,0.0 -38.9407289,-12.248424199999999,0.0 -38.9407343,-12.248379600000002,0.0 -38.9407691,-12.2483717,0.0 -38.9407611,-12.248418900000003,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 41</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9424992,-12.250088599999998,0.0 -38.9424267,-12.2500807,0.0 -38.9424482,-12.249952300000002,0.0 -38.9425153,-12.2499654,0.0 -38.9424992,-12.250088599999998,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 42</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9423785,-12.250078100000001,0.0 -38.9422846,-12.250075499999998,0.0 -38.94228989999999,-12.2500283,0.0 -38.9423758,-12.250038800000002,0.0 -38.9423785,-12.250078100000001,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 43</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9427084,-12.2501279,0.0 -38.94270569999999,-12.25001,0.0 -38.9428318,-12.2500073,0.0 -38.9428318,-12.2500598,0.0 -38.942859000000006,-12.250068,0.0 -38.9428264,-12.250141,0.0 -38.9427084,-12.2501279,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 44</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.942703,-12.2503324,0.0 -38.942665500000004,-12.250342799999999,0.0 -38.9426628,-12.250384799999999,0.0 -38.9426118,-12.2503822,0.0 -38.9425984,-12.250248499999998,0.0 -38.9427111,-12.250238,0.0 -38.942703,-12.2503324,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 45</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.9429417,-12.2497688,0.0 -38.9429069,-12.2497741,0.0 -38.9429069,-12.249821200000001,0.0 -38.94286129999999,-12.249821200000001,0.0 -38.9428398,-12.2494412,0.0 -38.9429712,-12.2494281,0.0 -38.9429739,-12.2494857,0.0 -38.9429417,-12.2494988,0.0 -38.94294709999999,-12.2496692,0.0 -38.9429739,-12.2496745,0.0 -38.9429417,-12.2497688,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Polígono 46</name>
+            <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-38.94274589999999,-12.249821200000001,0.0 -38.9426601,-12.2498396,0.0 -38.9426547,-12.2498029,0.0 -38.9426735,-12.2497531,0.0 -38.94267889999999,-12.2495984,0.0 -38.9426467,-12.2495984,0.0 -38.942501799999995,-12.249593200000001,0.0 -38.94251789999999,-12.24947,0.0 -38.9426574,-12.2494674,0.0 -38.942665500000004,-12.2495093,0.0 -38.9427701,-12.2494988,0.0 -38.942788799999995,-12.2497505,0.0 -38.94274589999999,-12.249821200000001,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Style id='poly-000000-1-76-nodesc-normal'>
+            <LineStyle>
+                <color>55000000</color>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle>
+                <color>4C000000</color>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+            <BalloonStyle>
+                <text><![CDATA[<h3>$[name]</h3>]]></text>
+            </BalloonStyle>
+        </Style>
+        <Style id='poly-000000-1-76-nodesc-highlight'>
+            <LineStyle>
+                <color>ff000000</color>
+                <width>2.0</width>
+            </LineStyle>
+            <PolyStyle>
+                <color>4C000000</color>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+            <BalloonStyle>
+                <text><![CDATA[<h3>$[name]</h3>]]></text>
+            </BalloonStyle>
+        </Style>
+        <StyleMap id='poly-000000-1-76-nodesc'>
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#poly-000000-1-76-nodesc-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#poly-000000-1-76-nodesc-highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Style id='poly-FFFFFF-1-0-nodesc-normal'>
+            <LineStyle>
+                <color>ffFFFFFF</color>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle>
+                <color> 0FFFFFF</color>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+            <BalloonStyle>
+                <text><![CDATA[<h3>$[name]</h3>]]></text>
+            </BalloonStyle>
+        </Style>
+        <Style id='poly-FFFFFF-1-0-nodesc-highlight'>
+            <LineStyle>
+                <color>ffFFFFFF</color>
+                <width>2.0</width>
+            </LineStyle>
+            <PolyStyle>
+                <color> 0FFFFFF</color>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+            <BalloonStyle>
+                <text><![CDATA[<h3>$[name]</h3>]]></text>
+            </BalloonStyle>
+        </Style>
+        <StyleMap id='poly-FFFFFF-1-0-nodesc'>
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#poly-FFFFFF-1-0-nodesc-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#poly-FFFFFF-1-0-nodesc-highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+    </Document>
+</kml>

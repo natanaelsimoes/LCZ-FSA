@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+    <Document>
+        <name>US02</name>
+        <description><![CDATA[]]></description>
+        <Folder>
+            <name>Baraúna</name>
+            <Placemark>
+                <name>us02</name>
+                <styleUrl>#poly-FFFFFF-1-0-nodesc</styleUrl>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-38.981452,-12.20047,0.0 -38.981461,-12.200294,0.0 -38.981487,-12.200119,0.0 -38.981531,-12.199947999999997,0.0 -38.981592,-12.199781999999997,0.0 -38.981669,-12.199623,0.0 -38.981762,-12.199472,0.0 -38.981869,-12.19933,0.0 -38.98199000000001,-12.199199999999998,0.0 -38.982124000000006,-12.199081,0.0 -38.982269,-12.198976,0.0 -38.982424,-12.198886,0.0 -38.982587,-12.19881,0.0 -38.982756,-12.198751,0.0 -38.982931,-12.198708,0.0 -38.98311,-12.198682,0.0 -38.983290000000004,-12.198673,0.0 -38.98347,-12.198682,0.0 -38.98364900000001,-12.198708000000002,0.0 -38.983824,-12.198751,0.0 -38.983992999999984,-12.19881,0.0 -38.98415599999999,-12.198886,0.0 -38.984311000000005,-12.198976,0.0 -38.984456,-12.199080999999996,0.0 -38.98459,-12.1992,0.0 -38.984711000000004,-12.19933,0.0 -38.984818,-12.199472,0.0 -38.984911,-12.199623,0.0 -38.984988,-12.199781999999997,0.0 -38.985049,-12.199947999999997,0.0 -38.985093,-12.200119,0.0 -38.985119,-12.200293999999996,0.0 -38.985128,-12.20047,0.0 -38.985119,-12.200646,0.0 -38.985092999999985,-12.200821000000003,0.0 -38.985049000000004,-12.200992000000003,0.0 -38.984988,-12.201158,0.0 -38.984911,-12.201317,0.0 -38.984818,-12.201468000000002,0.0 -38.984711000000004,-12.201610000000004,0.0 -38.98458999999999,-12.201740000000001,0.0 -38.984456,-12.201859000000004,0.0 -38.984311,-12.201964000000004,0.0 -38.984156,-12.202054,0.0 -38.983993,-12.20213,0.0 -38.983824,-12.202189,0.0 -38.98364900000001,-12.202232,0.0 -38.98347,-12.202257999999997,0.0 -38.983290000000004,-12.202267,0.0 -38.98311,-12.202257999999999,0.0 -38.98293100000001,-12.202232,0.0 -38.982756,-12.202188999999997,0.0 -38.982587,-12.20213,0.0 -38.982424,-12.202054,0.0 -38.982269,-12.201964000000004,0.0 -38.982124,-12.201859,0.0 -38.98199,-12.201740000000001,0.0 -38.981869,-12.201610000000004,0.0 -38.981762,-12.201468000000002,0.0 -38.981669,-12.201317000000003,0.0 -38.981592,-12.201158,0.0 -38.981531000000004,-12.200992000000001,0.0 -38.981487,-12.200821000000003,0.0 -38.981461,-12.200646000000004,0.0 -38.981452,-12.20047,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark>
+                <name>Polígono 70</name>
+                <styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-38.9825124,-12.199026499999999,0.0 -38.9823192,-12.198968900000004,0.0 -38.982587,-12.19881,0.0 -38.9825124,-12.199026499999999,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+        <Style id='poly-000000-1-76-nodesc-normal'>
+            <LineStyle>
+                <color>ff000000</color>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle>
+                <color>4C000000</color>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+            <BalloonStyle>
+                <text><![CDATA[<h3>$[name]</h3>]]></text>
+            </BalloonStyle>
+        </Style>
+        <Style id='poly-000000-1-76-nodesc-highlight'>
+            <LineStyle>
+                <color>ff000000</color>
+                <width>2.0</width>
+            </LineStyle>
+            <PolyStyle>
+                <color>4C000000</color>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+            <BalloonStyle>
+                <text><![CDATA[<h3>$[name]</h3>]]></text>
+            </BalloonStyle>
+        </Style>
+        <StyleMap id='poly-000000-1-76-nodesc'>
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#poly-000000-1-76-nodesc-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#poly-000000-1-76-nodesc-highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Style id='poly-FFFFFF-1-0-nodesc-normal'>
+            <LineStyle>
+                <color>ffFFFFFF</color>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle>
+                <color> 0FFFFFF</color>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+            <BalloonStyle>
+                <text><![CDATA[<h3>$[name]</h3>]]></text>
+            </BalloonStyle>
+        </Style>
+        <Style id='poly-FFFFFF-1-0-nodesc-highlight'>
+            <LineStyle>
+                <color>ffFFFFFF</color>
+                <width>2.0</width>
+            </LineStyle>
+            <PolyStyle>
+                <color> 0FFFFFF</color>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+            <BalloonStyle>
+                <text><![CDATA[<h3>$[name]</h3>]]></text>
+            </BalloonStyle>
+        </Style>
+        <StyleMap id='poly-FFFFFF-1-0-nodesc'>
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#poly-FFFFFF-1-0-nodesc-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#poly-FFFFFF-1-0-nodesc-highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+    </Document>
+</kml>

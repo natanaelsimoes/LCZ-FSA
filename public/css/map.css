@@ -1,0 +1,41 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: none;
+}
+.authors {
+    text-align: center;
+}
+.author {
+    width: 300px;
+    padding-bottom: 10px;
+}
+.author address {
+    font-size: small;
+}
+#author-1 {
+    float: left;
+    padding-left: 0%;
+}
+#author-2 {
+    float: right;
+    padding-right: 0%;
+}
+#map {
+    height: 100%;
+}
+#legend {
+    background: white;
+    padding: 10px;
+}
+#legend span {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+}
+#blitzMap, #kmlString, #jsonString {
+    display: none;
+}

@@ -1,0 +1,562 @@
+{
+    "us01": {
+        "center": {
+            "lat": -12.19577,
+            "lng": -39.00527
+        },
+        "name": "Parque Asa Branca",
+        "measureDate": "08/02/2016",
+        "description": "Vegetação é em maioria rasteira na forma de pasto usado no trato de animais. Região com características rurais, casas em alvenaria, possuem quintais grandes e em algumas até mesmo gado, por isso as casas estão muito separadas umas das outras. Todas as ruas são estreitas e de terra. Atividade humana e de veículos muito baixa.",
+        "temperature": 29,
+        "humidity": 45,
+        "dewPoint": 15.9,
+        "heatIndex": 29.1,
+        "lczBuildType": "C",
+        "lczLowerClass": "",
+        "lczCoverType": "D"
+    },
+    "us02": {
+        "center": {
+            "lat": -12.20047,
+            "lng": -38.98329
+        },
+        "name": "Baraúna",
+        "measureDate": "08/02/2016",
+        "description": "Região com vegetação rasteira densa e pastos, poucas construções, grandes terrenos com pequenas casas em alvenaria no centro. As ruas são de terra e quase nenhuma atividade humana foi observada no local. Devido a área extremamente aberta com grande incidências de raios solares, parte da vegetação está seca devido a atual estação climática.",
+        "temperature": 30,
+        "humidity": 51,
+        "dewPoint": 18.79,
+        "heatIndex": 31.21,
+        "lczBuildType": "C",
+        "lczLowerClass": "",
+        "lczCoverType": "D"
+    },
+    "us03": {
+        "center": {
+            "lat": -12.18503,
+            "lng": -38.96991
+        },
+        "name": "Novo Horizonte",
+        "measureDate": "08/02/2016",
+        "description": "Vegetação densa e construções em alvenaria aglomeradas em grandes terrenos. As ruas são de terra e apresentam indícios claros de erosão por chuva. A vegetação comum contempla espécies de até 2 metros de altura típicas da caatinga com algumas árvores ao fundo. Pouca atividade humana foi detectada no local.",
+        "temperature": 29,
+        "humidity": 52,
+        "dewPoint": 18.18,
+        "heatIndex": 29.91,
+        "lczBuildType": "C",
+        "lczLowerClass": "",
+        "lczCoverType": "D"
+    },
+    "us04": {
+        "center": {
+            "lat": -12.21736,
+            "lng": -38.99935
+        },
+        "name": "Campo do Gado Novo",
+        "measureDate": "08/02/2016",
+        "description": "Toda a região é envolvida de um lado por floresta nativa e por outro por vastos pastos. Vias são mesclado de bloquete e terra, sendo que esta apresenta características de canyon. Construções em alvenaria, alguns pontos são aglomeradas, entretanto há um espaço considerável entre cada ajuntamento. Pouco trânsito de pedestres e automóveis.",
+        "temperature": 32,
+        "humidity": 42,
+        "dewPoint": 17.51,
+        "heatIndex": 32.65,
+        "lczBuildType": "6",
+        "lczLowerClass": "",
+        "lczCoverType": "C"
+    },
+    "us05": {
+        "center": {
+            "lat": -12.20681,
+            "lng": -38.96924
+        },
+        "name": "Campo Limpo",
+        "measureDate": "08/02/2016",
+        "description": "Região urbana moderadamente desenvolvida, apresenta prédios de até três andares, mas predominam construções térreas e sobrados, todas em alvenaria. Possui alguns comércios e quadra de esportes publica, com ruas revestidas em bloquete. Arborização moderada, bem como tráfego de veículo e pedrestres.",
+        "temperature": 29,
+        "humidity": 46,
+        "dewPoint": 16.24,
+        "heatIndex": 29.2,
+        "lczBuildType": "3",
+        "lczLowerClass": "5",
+        "lczCoverType": "B"
+    },
+    "us06": {
+        "center": {
+            "lat": -12.22056,
+            "lng": -38.97608
+        },
+        "name": "George Américo",
+        "measureDate": "08/02/2016",
+        "description": "Moderadamente arborizado, observada praça pública com avenida específica para comércio, além de outros pequenos comércios mesclados a residências. Construções predominantemente em alvenaria com até um andar. A maioria das ruas são bloqueteadas e outras poucas em asfalto. Largura de vias é normal, com trânsito de pessoas e veículos moderado.",
+        "temperature": 33,
+        "humidity": 40,
+        "dewPoint": 17.63,
+        "heatIndex": 33.79,
+        "lczBuildType": "3",
+        "lczLowerClass": "",
+        "lczCoverType": ""
+    },
+    "us07": {
+        "center": {
+            "lat": -12.23359,
+            "lng": -38.98686
+        },
+        "name": "Gabriela",
+        "measureDate": "08/02/2016",
+        "description": "Sem arborização, conglomerado de residências e pequenos comércios em alvenaria geralmente com um andar. Todas as construções são anexas, ruas estreitas bloqueteadas e algumas de terra. Trânsito de veículos e pessoas moderado",
+        "temperature": 34,
+        "humidity": 41,
+        "dewPoint": 18.92,
+        "heatIndex": 35.69,
+        "lczBuildType": "3",
+        "lczLowerClass": "",
+        "lczCoverType": ""
+    },
+    "us08": {
+        "center": {
+            "lat": -12.23261,
+            "lng": -38.9658
+        },
+        "name": "Muchila 1",
+        "measureDate": "09/02/2016",
+        "description": "Ruas em bloquete, mas observa-se cobertura de areia, há diversos terrenos apenas murados e as casas presentes no local são de médio porte (cobertura de quase ¼ de uma quadra], geralmente com um andar e em alvenaria. Existem também galpões e supermercados. Possui espaço verde com lago. Região envolta por avenidas de grande movimentação durante todo o dia. ",
+        "temperature": 31,
+        "humidity": 41,
+        "dewPoint": 16.24,
+        "heatIndex": 31.06,
+        "lczBuildType": "5",
+        "lczLowerClass": "",
+        "lczCoverType": ""
+    },
+    "us09": {
+        "center": {
+            "lat": -12.24636,
+            "lng": -38.97309
+        },
+        "name": "Cruzeiro",
+        "measureDate": "09/02/2016",
+        "description": "Região completamente pavimentada, possui praça pública e estádio de futebol. Aparenta ter mais sobrados e comércios de um andar na maioria. Áreas abertas geralmente arborizadas. Construções em alvenaria aglomeradas sem espaçamento entre elas. Trânsito de veículo um pouco mais intenso e moderada atividade humana.",
+        "temperature": 36,
+        "humidity": 37,
+        "dewPoint": 19.05,
+        "heatIndex": 38.14,
+        "lczBuildType": "2",
+        "lczLowerClass": "6",
+        "lczCoverType": ""
+    },
+    "us10": {
+        "center": {
+            "lat": -12.25567,
+            "lng": -38.98515
+        },
+        "name": "Calumbi",
+        "measureDate": "09/02/2016",
+        "description": "Bairro residencial sem arborização, ruas geralmente em bloquete, mas as principais são em asfalto. Construções em alvenaria anexadas, apresenta térreos e sobrados em proporção semelhante. Atividades humana e de veículos é intensa.",
+        "temperature": 32,
+        "humidity": 40,
+        "dewPoint": 16.34,
+        "heatIndex": 32.11,
+        "lczBuildType": "3",
+        "lczLowerClass": "",
+        "lczCoverType": ""
+    },
+    "us11": {
+        "center": {
+            "lat": -12.25551,
+            "lng": -38.96133
+        },
+        "name": "Centro",
+        "measureDate": "09/02/2016",
+        "description": "Centro da cidade, sítio quase que comercial em sua totalidade, apresenta grandes prédios, todas as construções anexas. Ruas pavimentadas, alta concentração e tráfego de veículos durante todo o dia. Canteiros centrais arborizados.",
+        "temperature": 0,
+        "humidity": 0,
+        "dewPoint": 0,
+        "heatIndex": 0,
+        "lczBuildType": "2",
+        "lczLowerClass": "4",
+        "lczCoverType": ""
+    },
+    "us12": {
+        "center": {
+            "lat": -12.24146,
+            "lng": -38.95391
+        },
+        "name": "São João",
+        "measureDate": "16/02/2016",
+        "description": "Apresenta residências e comércios de pequeno porte, construções em alvenaria, aglomeradas na maioria. Observa-se que porções de terrenos sem área construída são pavimentadas. Ruas principais são ligeiramente largas com canteiros centrais em grama e arborizados com meio pavimentado para caminhada. Trânsito intenso. Poucas ocorrências de construções com andar.",
+        "temperature": 35,
+        "humidity": 36,
+        "dewPoint": 17.73,
+        "heatIndex": 36.06,
+        "lczBuildType": "3",
+        "lczLowerClass": "",
+        "lczCoverType": ""
+    },
+    "us13": {
+        "center": {
+            "lat": -12.24938,
+            "lng": -38.94116
+        },
+        "name": "Lagoa grande",
+        "measureDate": "16/02/2016",
+        "description": "Região sem arborização. Ruas em bloquete e terra muito estreitas. Construções em alvenaria, aglomeradas, geralmente apresentam andar e residenciais. Há pouco trânsito. Apresenta graves problemas de saneamento básico.",
+        "temperature": 39,
+        "humidity": 30,
+        "dewPoint": 18.3,
+        "heatIndex": 41.24,
+        "lczBuildType": "3",
+        "lczLowerClass": "F",
+        "lczCoverType": "w"
+    },
+    "us14": {
+        "center": {
+            "lat": -12.26205,
+            "lng": -38.94172
+        },
+        "name": "Capuchinhos",
+        "measureDate": "16/02/2016",
+        "description": "Tanto comércio quanto residências são observados. Comércio nesta região é bem desenvolvido, por isso apresenta construções comerciais de um andar na maioria e alguns prédios, tudo em alvenaria. Construções aglomeradas com algumas unidades de terreno gramados com casas no centro. Nas ruas predomina pavimentação asfáltica. Moderadamente arborizado com pouco trânsito de pedestres, porém um pouco elevado para veículo automotores.",
+        "temperature": 33,
+        "humidity": 39,
+        "dewPoint": 17.23,
+        "heatIndex": 33.58,
+        "lczBuildType": "3",
+        "lczLowerClass": "",
+        "lczCoverType": "5"
+    },
+    "us15": {
+        "center": {
+            "lat": -12.27425,
+            "lng": -38.9449
+        },
+        "name": "Brasília",
+        "measureDate": "16/02/2016",
+        "description": "Região urbana em desenvolvimento. Vegetação abundante nos arredores. Construções em alvenaria de nível térreo contemplando principalmente casas. Curtas vias pavimentadas em bloquete com trânsito de veículos e pessoas baixo.",
+        "temperature": 33,
+        "humidity": 39,
+        "dewPoint": 17.23,
+        "heatIndex": 33.58,
+        "lczBuildType": "6",
+        "lczLowerClass": "",
+        "lczCoverType": ""
+    },
+    "us16": {
+        "center": {
+            "lat": -12.28402,
+            "lng": -38.95533
+        },
+        "name": "Tomba",
+        "measureDate": "07/03/2016",
+        "description": "Região essencialmente residencial. Ruas em asfalto e pedra, trânsito moderado de veículos e baixo de pessoas. Construções em alvenaria, de até um andar, porém predominam as construções térreas. Os terrenos são amplos e as casas deixam espaço para ventilação e quintal.",
+        "temperature": 32,
+        "humidity": 39,
+        "dewPoint": 16.34,
+        "heatIndex": 32.1,
+        "lczBuildType": "3",
+        "lczLowerClass": "",
+        "lczCoverType": ""
+    },
+    "us17": {
+        "center": {
+            "lat": -12.28616,
+            "lng": -38.98565
+        },
+        "name": "Conjunto Viveiros",
+        "measureDate": "07/03/2016",
+        "description": "Um bairro separado da cidade, para chegar tem de percorrer um breve percurso em asfalto. Parece ter altitude superior à cidade. Intensamente arborizado ao redor, região quase que rural. Construções em alvenaria, na maioria residencial, com presença semelhante de construções térreas e de um andar. As ruas são de pedra. Trânsito de pessoas é moderado, e foi observado pouco trânsito de veículos.",
+        "temperature": 32,
+        "humidity": 39,
+        "dewPoint": 16.34,
+        "heatIndex": 32.1,
+        "lczBuildType": "3",
+        "lczLowerClass": "",
+        "lczCoverType": "B"
+    },
+    "us18": {
+        "center": {
+            "lat": -12.2693,
+            "lng": -38.95962
+        },
+        "name": "Olhos d'água",
+        "measureDate": "07/03/2016",
+        "description": "Maior desenvolvimento na parte comercial. As construções são em alvenaria chegando a apresentar prédio com mais de uma dezena de andares. A presença de prédios é maior nesta região. Ruas estreitas em asfalto. Trânsito de veículos intenso e atividade humana moderada.",
+        "temperature": 34,
+        "humidity": 36,
+        "dewPoint": 16.85,
+        "heatIndex": 34.47,
+        "lczBuildType": "5",
+        "lczLowerClass": "3",
+        "lczCoverType": ""
+    },
+    "us19": {
+        "center": {
+            "lat": -12.26756,
+            "lng": -38.9767
+        },
+        "name": "Muchila",
+        "measureDate": "07/03/2016",
+        "description": "Não urbanizado. Construções em alvenaria, geralmente térreos e residenciais. Ruas tão estreitas que não passam dois carros em paralelo. Trânsito de veículos praticamente impossível, de pessoas é brando.",
+        "temperature": 32,
+        "humidity": 40,
+        "dewPoint": 16.74,
+        "heatIndex": 32.28,
+        "lczBuildType": "3",
+        "lczLowerClass": "",
+        "lczCoverType": ""
+    },
+    "us20": {
+        "center": {
+            "lat": -12.28134,
+            "lng": -38.97103
+        },
+        "name": "Feira X",
+        "measureDate": "07/03/2016",
+        "description": "Pouca urbanização. Há ruas estreitas de terra, pedra e asfalto. Próximo às ruas principais há muito comércio com prédios de até dois andares, porém predominam as resisdências térreas. Todas as construções são em alvenaria e anexas. Atividade humana é moderada, assim como de veículos trafegando no local.",
+        "temperature": 31,
+        "humidity": 41,
+        "dewPoint": 16.24,
+        "heatIndex": 31.06,
+        "lczBuildType": "3",
+        "lczLowerClass": "5",
+        "lczCoverType": "B"
+    },
+    "us21": {
+        "center": {
+            "lat": -12.21571,
+            "lng": -38.95129
+        },
+        "name": "Parque Ipê",
+        "measureDate": "21/02/2016",
+        "description": "Ruas principais são ligeiramente largas com canteiros centrais em grama e arborizados com meio pavimentado para caminhada. Trânsito intenso em ruas largas, as principais em asfalto e demais em bloquete. Poucas ocorrências de construções com andar, exceto pela presença de alguns grandes condomínios. Maior parte das construções é residencial, com foco do comércio na avenida principal. Nos terrenos há boa parte de área não construída. Arborização no local é abundante, grandes árvores e aparentemente antigas. Residências com gramado ou jardim no meio fio.",
+        "temperature": 35,
+        "humidity": 36,
+        "dewPoint": 17.73,
+        "heatIndex": 36.09,
+        "lczBuildType": "3",
+        "lczLowerClass": "5",
+        "lczCoverType": "B"
+    },
+    "us22": {
+        "center": {
+            "lat": -12.20782,
+            "lng": -38.93387
+        },
+        "name": "Alto do Papagaio",
+        "measureDate": "21/02/2016",
+        "description": "Construções residenciais em alvenaria. Características de região rural, na parte externa mais urbana apresenta pavimento asfáltico, grandes terrenos com vegetação rasteira e pequenas construções no centro; e na parte mais rural, as estradas são de terra com vegetação mais densa típica do semiárido. Geralmente as áreas com mais concentração de residências são condomínios de casas. Não foi observado fluxo de ar no local.",
+        "temperature": 36,
+        "humidity": 37,
+        "dewPoint": 19.05,
+        "heatIndex": 38.14,
+        "lczBuildType": "C",
+        "lczLowerClass": "",
+        "lczCoverType": "B"
+    },
+    "us23": {
+        "center": {
+            "lat": -12.21591,
+            "lng": -38.92003
+        },
+        "name": "Mediações do Aeroporto (R. Vitórino Freire)",
+        "measureDate": "21/02/2016",
+        "description": "Região rural, porém arredores possuem características urbanas. A parte mais urbana tem ruas principais em pavimento alfaltico com vias laterais em terra. As construções predoninam residências, mas são praticamente condominios prediais. A atividade humana é bem avantajada. Na parte rural são grandes terrenos com casas no início. Vegetação predominantemente rasteira, mas possui algumas árvores. Não foi observado fluxo de ar no local.",
+        "temperature": 35,
+        "humidity": 36,
+        "dewPoint": 17.73,
+        "heatIndex": 36.09,
+        "lczBuildType": "C",
+        "lczLowerClass": "",
+        "lczCoverType": "B"
+    },
+    "us24": {
+        "center": {
+            "lat": -12.20249,
+            "lng": -38.90866
+        },
+        "name": "Aeroporto",
+        "measureDate": "21/02/2016",
+        "description": "Área aeroportuária, região livre de obstáculos senão por árvores ao redor. Para além dos limites do aeroporto, a paisagem parece ainda ser nativa, quando não, pastos de fazendas e pequenos sítios figuram o lugar. Ação do vento constante. Pouco trânsito (no aeroporto funciona apenas uma companhia aérea].",
+        "temperature": 33,
+        "humidity": 36,
+        "dewPoint": 15.97,
+        "heatIndex": 32.98,
+        "lczBuildType": "8",
+        "lczLowerClass": "",
+        "lczCoverType": "D"
+    },
+    "us25": {
+        "center": {
+            "lat": -12.23439,
+            "lng": -38.92331
+        },
+        "name": "Conceição",
+        "measureDate": "21/02/2016",
+        "description": "Tem várias residências, todas aglomeradas, porém há muito terreno sem qualquer construção. Parte da vegetação que a rodeia é nativa. Ruas em bloquete e terra. As casas são bem pequenas, parecem ter algo entre 50 e 70m² apenas terreo. Também ventando por aqui.",
+        "temperature": 34,
+        "humidity": 36,
+        "dewPoint": 16.85,
+        "heatIndex": 34.47,
+        "lczBuildType": "6",
+        "lczLowerClass": "",
+        "lczCoverType": "C"
+    },
+    "us26": {
+        "center": {
+            "lat": -12.22778,
+            "lng": -38.9388
+        },
+        "name": "Mangabeira",
+        "measureDate": "21/02/2016",
+        "description": "Bastante mata nativa, condominios, quadra de futebol (de terra a céu aberto). Rua em bloquete e algumas asfaltadas, maior parte da construções é residencial, térreas e aglomeradas, trânsito moderado.",
+        "temperature": 35,
+        "humidity": 37,
+        "dewPoint": 18.16,
+        "heatIndex": 36.36,
+        "lczBuildType": "6",
+        "lczLowerClass": "",
+        "lczCoverType": "5"
+    },
+    "us27": {
+        "center": {
+            "lat": -12.25234,
+            "lng": -38.92162
+        },
+        "name": "SIM",
+        "measureDate": "29/02/2016",
+        "description": "Região aparenta ser bem desenvolvida residencialmente, existem alguns condomínios com arquitetura privilegiada, a maioria das construções possuem grandes terrenos com casas no centro, há também muitos terrenos não utilizados. Os terrenos utilizados estão todos murados mas muros são baixos. Existem poucas casas com um andar, maioria térreo. Ruas pavimentas em asfalto com ocorrência de ruas de terra, todas são bem largas. Atividade humana reduzida, assim como o tráfego de veículos. Há muita mata nativa ao lado das construções.",
+        "temperature": 35,
+        "humidity": 38,
+        "dewPoint": 18.59,
+        "heatIndex": 36.63,
+        "lczBuildType": "6",
+        "lczLowerClass": "",
+        "lczCoverType": ""
+    },
+    "us28": {
+        "center": {
+            "lat": -12.24152,
+            "lng": -38.90037
+        },
+        "name": "Santo Antônio dos Prazeres",
+        "measureDate": "29/02/2016",
+        "description": "Zona rural com exterior urbano. Quase não se vê casas na parte rural, a parte urbana possui condôminios e conjuntos habitacionais de mesma estrutura, são amplos, abertos e muito arborizados. A arborização aparenta ser nativa. Há muita floresta e vegetação. Na parte urbana as ruas são de asfalto e bloquete, na parte rural apenas terra. Atividade humana na parte urbana é quase que integralmente construções que estão acontecendo nesses condomínios. Na parte rural quase não se vê pessoas.",
+        "temperature": 33,
+        "humidity": 41,
+        "dewPoint": 18.02,
+        "heatIndex": 34,
+        "lczBuildType": "C",
+        "lczLowerClass": "",
+        "lczCoverType": "B"
+    },
+    "us29": {
+        "center": {
+            "lat": -12.26094,
+            "lng": -38.90346
+        },
+        "name": "Estrada Corredor dos Araçás",
+        "measureDate": "29/02/2016",
+        "description": "Rodovia, ao lado tem zona rural. Por isso a região é ampla e aberta, mas sem qualquer tipo de cobertura. Existem muitas árvores em volta, a estrada é bem larga. Na parte rural ruas são de terra e estreitas. Na estrada é asfalto. Não há muito tráfego de veículos, e praticamente não há qualquer outro tipo de atividade humana. Durantes as medições os sensores ficaram expostos ao sol pela falta de cobertura no local.",
+        "temperature": 34,
+        "humidity": 39,
+        "dewPoint": 18.12,
+        "heatIndex": 35.18,
+        "lczBuildType": "C",
+        "lczLowerClass": "",
+        "lczCoverType": "A"
+    },
+    "us30": {
+        "center": {
+            "lat": -12.27394,
+            "lng": -38.9211
+        },
+        "name": "Lagoa Salgada",
+        "measureDate": "29/02/2016",
+        "description": "Região pouco urbanizada próximo a rodovia. Há grandes campos vastos e abertos sem qualquer obstrução. Há açudes e rios próximos com vegetação oriunda desse tipo de ambiente. Predominância de residências térreas aglomeradas, porém em pouca quantidade. Venta muito aqui. Ruas são de terra. Há pouquíssimo tráfego de veículos e pessoas. Quase não foram percebidas árvores no local, senão pelos pastos.",
+        "temperature": 32,
+        "humidity": 42,
+        "dewPoint": 17.51,
+        "heatIndex": 32.64,
+        "lczBuildType": "9",
+        "lczLowerClass": "",
+        "lczCoverType": "G"
+    },
+    "us31": {
+        "center": {
+            "lat": -12.31723,
+            "lng": -38.95095
+        },
+        "name": "Parque Panorama",
+        "measureDate": "01/03/2016",
+        "description": "Muito arborizado por fazer divisa com região de rodovia, há muita vegetação e florestas próximas. Há residências em alvenaria, na maioria aglomeradas, porém, por ser uma região urbana em desenvolvimento, há espaços consideráveis entre cada aglomerado. Há muito terreno sem área construída. Ruas são estreitas e maioria de terra, havendo ocorrências de bloquete nas partes mais próximas da rodovia. Foi observado pouco tráfego de pessoas e veículos.",
+        "temperature": 33,
+        "humidity": 37,
+        "dewPoint": 16.4,
+        "heatIndex": 33.17,
+        "lczBuildType": "6",
+        "lczLowerClass": "",
+        "lczCoverType": ""
+    },
+    "us32": {
+        "center": {
+            "lat": -12.29945,
+            "lng": -38.94627
+        },
+        "name": "Fracisco Pinto",
+        "measureDate": "01/03/2016",
+        "description": "Moderadamente arborizado, construções anexadas, em proporções semelhantes entre aquelas que possuem um andar e térreas. Foi percebido boa estrutura para ventilação. Ruas são em geral estreitas e feitas de bloquete. Avenidas principais são mais largas e arborizadas. Trânsito de veículos baixo e atividade humana moderada.",
+        "temperature": 33,
+        "humidity": 38,
+        "dewPoint": 16.82,
+        "heatIndex": 33.37,
+        "lczBuildType": "3",
+        "lczLowerClass": "8",
+        "lczCoverType": ""
+    },
+    "us33": {
+        "center": {
+            "lat": -12.28775,
+            "lng": -38.92876
+        },
+        "name": "35° BI",
+        "measureDate": "01/03/2016",
+        "description": "Ruas estreitas de terra, com baixo trânsito de automotores e moderado de pessoas. Maioria das construções é residencial térreo, com ocorrência de alguns conjuntos habitacionais de um andar. Todas as construções são em alvenaria e anexas. Arborização abundante nos arredores.",
+        "temperature": 32,
+        "humidity": 39,
+        "dewPoint": 16.34,
+        "heatIndex": 32.1,
+        "lczBuildType": "6",
+        "lczLowerClass": "",
+        "lczCoverType": ""
+    },
+    "us34": {
+        "center": {
+            "lat": -12.29845,
+            "lng": -38.9125
+        },
+        "name": "Subaé",
+        "measureDate": "01/03/2016",
+        "description": "Região rural, campos abertos e vastos. Sem cobertura, predominam pastos. Ruas de terra, muito curtas. Sem atividade humana ou de veículos. Construções são bem raras no início das fazendas, sendo as existentes feitas em alvenaria.",
+        "temperature": 32,
+        "humidity": 40,
+        "dewPoint": 16.74,
+        "heatIndex": 32.28,
+        "lczBuildType": "9",
+        "lczLowerClass": "",
+        "lczCoverType": ""
+    },
+    "us35": {
+        "center": {
+            "lat": -12.31249,
+            "lng": -38.89615
+        },
+        "name": "Limoeiro",
+        "measureDate": "01/03/2016",
+        "description": "Intensamente arborizado com arredores de mata. Ruas largas em bloquete. Trânsito de pedestres e veículos é reduzido. Construções anexas geralmente residenciais térreas. Observação para ventilação que é bem forte.",
+        "temperature": 32,
+        "humidity": 40,
+        "dewPoint": 16.74,
+        "heatIndex": 32.28,
+        "lczBuildType": "3",
+        "lczLowerClass": "",
+        "lczCoverType": "B"
+    }
+}
