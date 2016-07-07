@@ -17,31 +17,31 @@ function LCZ_Map() {
     }
     var lczStyles = {
         2: {
-            name: 'Compacto de altura média',
+            name: 'Compacto de média elevação',
             color: '#FF0000'
         },
         3: {
-            name: 'Compacto de altura baixa',
+            name: 'Compacto de baixa elevação',
             color: '#FF00FF',
         },
         5: {
-            name: 'Aberto de altura média',
+            name: 'Aberto de média elevação',
             color: '#FFFF00'
         },
         6: {
-            name: 'Aberto de altura baixa',
+            name: 'Aberto de baixa elevação',
             color: '#00FFFF'
         },
         8: {
-            name: 'Largo de altura baixa',
+            name: 'Largo de baixa elevação',
             color: '#0000FF'
         },
         9: {
-            name: 'Contruído dispersamente',
+            name: 'Escassamente construído',
             color: '#dd8800'
         },
         C: {
-            name: 'Arbusto, matagal',
+            name: 'Arbusto, relva',
             color: '#00FF00'
         }
     };
