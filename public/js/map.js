@@ -157,27 +157,52 @@ function LCZ_Map() {
     };
 
     var createCircle = function (site, id) {
-        var siteCircle = new google.maps.Circle({
+        var siteFarOverlayCircle = new google.maps.Circle({
             strokeColor: lczStyles[site.lczBuildType].color,
-            strokeOpacity: 0.8,
+            strokeOpacity: 0,
             strokeWeight: jsonMap.zoom,
             fillColor: lczStyles[site.lczBuildType].color,
-            fillOpacity: 0.35,
+            fillOpacity: 0.09,
             map: map,
             center: site.center,
-            radius: 200
+            radius: 1500
+        });
+        var siteNearOverlayCircle = new google.maps.Circle({
+            strokeColor: lczStyles[site.lczBuildType].color,
+            strokeOpacity: 0,
+            strokeWeight: jsonMap.zoom,
+            fillColor: lczStyles[site.lczBuildType].color,
+            fillOpacity: 0.17,
+            map: map,
+            center: site.center,
+            radius: 500,
+            zIndex: 998
+        });
+        makeCircleClickable(map, siteNearOverlayCircle, formatContent(site, id));
+        var siteCircle = new google.maps.Circle({
+            strokeColor: lczStyles[site.lczBuildType].color,
+            strokeOpacity: 0,
+            strokeWeight: jsonMap.zoom,
+            fillColor: lczStyles[site.lczBuildType].color,
+            fillOpacity: 0.8,
+            map: map,
+            center: site.center,
+            radius: 200,
+            zIndex: 999
         });
         makeCircleClickable(map, siteCircle, formatContent(site, id));
-        jsonMap.overlays.push({
-            type: 'circle',
-            strokeColor: lczStyles[site.lczBuildType].color,
-            strokeOpacity: 0.8,
-            strokeWeight: 2,
-            fillColor: lczStyles[site.lczBuildType].color,
-            fillOpacity: 0.35,
-            center: site.center,
-            radius: 200
-        });
+        jsonMap.overlays.push(
+                {
+                    type: 'circle',
+                    strokeColor: lczStyles[site.lczBuildType].color,
+                    strokeOpacity: 0.8,
+                    strokeWeight: 2,
+                    fillColor: lczStyles[site.lczBuildType].color,
+                    fillOpacity: 0.35,
+                    center: site.center,
+                    radius: 200
+                }
+        );
     };
 
     var processJSON = function () {
